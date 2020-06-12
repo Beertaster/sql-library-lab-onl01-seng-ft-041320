@@ -5,14 +5,14 @@ INSERT INTO subgenres (name) VALUES ("Fantasy");
 INSERT INTO subgenres (name) VALUES ("Magic");
 
 INSERT INTO authors (name) VALUES ("J.R.R. Tolkien");
-INSERT INTO authors (name) VALUES ("J.K. Rowling");
+INSERT INTO authors (name) VALUES ("Terry Pratchet");
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 1954, 1);
-INSERT INTO books (title, year, series_id) VALUES ("The Sorcerer's Stone", 1997, 2);
-INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
-INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
+INSERT INTO books (title, year, series_id) VALUES ("Gaurds! Gaurds!", 1997, 2);
+INSERT INTO books (title, year, series_id) VALUES ("Men at Arms", 1998, 2);
+INSERT INTO books (title, year, series_id) VALUES ("The Night's Watch", 2000, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "The Boy Who Lived", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hagrid", "The Gentle Giant", "Giant", 2, 2);
