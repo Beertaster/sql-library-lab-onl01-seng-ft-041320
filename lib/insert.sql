@@ -1,10 +1,10 @@
-INSERT INTO series (title, author_id, subgenre_id) VALUES ("Lord of the Rings", 1, 1);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Witcher", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Discworld", 2, 2);
 
 INSERT INTO subgenres (name) VALUES ("Fantasy");
 INSERT INTO subgenres (name) VALUES ("Magic");
 
-INSERT INTO authors (name) VALUES ("J.R.R. Tolkien");
+INSERT INTO authors (name) VALUES ("Andrew");
 INSERT INTO authors (name) VALUES ("Terry Pratchet");
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
