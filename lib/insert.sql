@@ -14,8 +14,8 @@ INSERT INTO books (title, year, series_id) VALUES ("Gaurds! Gaurds!", 1997, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Men at Arms", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Night's Watch", 2000, 2);
 
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sam Vimes", "The Boy Who Lived", "City Gaurd", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Corpral Carrot", "The Gentle Giant", "City Gaurd", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sam Vimes", "I hate plumes", "City Gaurd", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Corpral Carrot", "Heir of the city", "City Gaurd", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1, 1);
