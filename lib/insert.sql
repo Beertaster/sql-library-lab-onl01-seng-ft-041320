@@ -20,7 +20,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Con
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Patrician", "A city that works", "Politician", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Geralt of Rivia", "I'd rather not choose at all", "Witcher", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Triss Merigold", "member of the lodge", "Enchantress", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Yennefer de Vengeburg", "", "Entrantress", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Yennefer de Vengeburg", "I wish for a genie", "Entrantress", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dandilion", "Toss a coin to your witcher", "Troubadour", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
