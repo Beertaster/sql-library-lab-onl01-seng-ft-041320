@@ -20,8 +20,8 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Con
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Patrician", "A city that works", "Politician", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Geralt of Rivia", "Moster hunter", "Witcher", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Triss Merigold", "The White Wizard", "Wizard", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Yennefer de Vengeburg", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dandilion", "Toss a coin to your witcher", "Troubadour", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (1, 5);
