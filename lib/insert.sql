@@ -4,10 +4,10 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES ("Discworld", 2, 2);
 INSERT INTO subgenres (name) VALUES ("Fantasy");
 INSERT INTO subgenres (name) VALUES ("Magic");
 
-INSERT INTO authors (name) VALUES ("Andrew");
+INSERT INTO authors (name) VALUES ("Andrew Saproski");
 INSERT INTO authors (name) VALUES ("Terry Pratchet");
 
-INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
+INSERT INTO books (title, year, series_id) VALUES ("Tower of Swallows", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Gaurds! Gaurds!", 1997, 2);
