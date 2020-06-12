@@ -8,8 +8,8 @@ INSERT INTO authors (name) VALUES ("Andrew Saproski");
 INSERT INTO authors (name) VALUES ("Terry Pratchet");
 
 INSERT INTO books (title, year, series_id) VALUES ("Tower of Swallows", 1954, 1);
-INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
-INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 1954, 1);
+INSERT INTO books (title, year, series_id) VALUES ("A time of Compept", 1954, 1);
+INSERT INTO books (title, year, series_id) VALUES ("Blood of Elves", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Gaurds! Gaurds!", 1997, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Men at Arms", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Night's Watch", 2000, 2);
