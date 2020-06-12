@@ -18,8 +18,8 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sam
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Corpral Carrot", "Heir of the city", "City Gaurd", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Constable Knobby Knobs", "disqualified from the human race for loitering", "City Gaurd", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Patrician", "A city that works", "Politician", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Geralt of Rivai", "Moster hunter", "Witcher", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Saruman", "The White Wizard", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Geralt of Rivia", "Moster hunter", "Witcher", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Triss Merigold", "The White Wizard", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1, 1);
 
